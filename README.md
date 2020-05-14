@@ -1,29 +1,25 @@
-# fmatflix
+# **Fmatflix**
 
-## Project setup
-```
-yarn install
-```
+#### Workshop "Meet Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+![preview](preview.png)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+### **Pre-requirements**
+* NodeJS > 10
 
-### Run your tests
-```
-yarn run test
-```
+* Code Editor (Vs Code, Sublime Text, Atom, etc.)
 
-### Lints and fixes files
-```
-yarn run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### **Let's start**
+
+1. Clone the repository
+    ```bash
+      git clone https://github.com/abrahamBerzunza/fmatflix.git
+    ```
+
+2. Go to **starter** branch
+    ```bash
+      git checkout starter
+    ```
+
+3. Let's code! 🥳
